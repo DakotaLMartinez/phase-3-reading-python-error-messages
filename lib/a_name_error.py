@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-
-print(hello_world)
+HELLO_WORLD = "Hello, world!"
+print(HELLO_WORLD)

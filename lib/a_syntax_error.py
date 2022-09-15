@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+POOR_SYNTAX = 2 * 3
